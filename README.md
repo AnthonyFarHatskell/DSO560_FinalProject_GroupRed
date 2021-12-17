@@ -3,7 +3,7 @@ Final group project for Henry, Anthony, Jayden, Karina, Rudrang, Muhammad
 
 Files: 
 
-- NLP project deck final: our final powerpoint presentation
+- NLP Project Deck Final: our final powerpoint presentation
 
 - Data: 
     - Opening and cleaning the data
