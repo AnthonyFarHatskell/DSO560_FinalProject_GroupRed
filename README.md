@@ -11,8 +11,11 @@ Files:
     - Master data file with pulling and cleaning of our data
     
 - Classification (Team 1):
-    - CountVectorize/TfidfVectorize/Spacy multi-classification for reviews
-    - BERT classification
+    - CountVectorize/TfidfVectorize/Spacy multi-classification for reviews 
+    - Optimized Bag of Words Looping
+    - BERT multi-classification for reviews
+    - Csv files
 
 - Sentiment Analysis (Team 2):
-    - Positive & Negative sentiment analysis 
+    - Opening and cleaning data
+    - Positive & Negative sentiment analysis with Tfidf vectorization
